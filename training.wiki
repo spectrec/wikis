@@ -1,5 +1,5 @@
 = Тренировки =
-Основная информация взята с [сайта](http://forum.mengen.ru).
+Основная информация взята с [http://forum.mengen.ru сайта].
 
 == Питание ==
 Питание играет основную роль в достижении результатов.
@@ -18,8 +18,8 @@
 ежедневно считаем количество потребляемых КБЖУ, суммируем и в конце делим на 7 -
 это будет оправной точкой. После этого нужно просто менять калорийность,
 например с шагом 500ккал и смотреть результаты каждую неделю:
-- если ничего не меняется - добавить ещё (для набора)
-- если начал расти % жира - немного убавить калорийность
+* если ничего не меняется - добавить ещё (для набора)
+* если начал расти % жира - немного убавить калорийность
 
 Для подсчета можно использовать различные приложения, таблицы и сервисы
 (каталогизатор, fatsecret, my fitness pal и т.д.)
@@ -36,9 +36,9 @@
 
 По нутриентам для начала можно ориентироваться на следующие цифры (со временем
 вы нужно подобрать более подходящее для вас):
-- 1г жира на 1кг массы
-- 1-2г белка на 1кг массы
-- 2-4г углеводов на 1кг массы
+* 1г жира на 1кг массы
+* 1-2г белка на 1кг массы
+* 2-4г углеводов на 1кг массы
 
 == Расстановка приоритетов ==
 Нужно определиться с направлением: набор массы, рост силы, тренировка
@@ -66,8 +66,8 @@
 повторений.
 
 Нужно придерживаться 2х основных принципов:
-- прогрессия нагрузки (постепенное увеличение тренировочного стресса)
-- периодизация (циклирование нагрузки)
+* прогрессия нагрузки (постепенное увеличение тренировочного стресса)
+* периодизация (циклирование нагрузки)
 
 == Дневник ==
 В нем вы расписываете свои тренировки: самочувствие, отдых, веса и т.д. Он
@@ -87,9 +87,9 @@
 значения выше, чем до тренировки.
 
 Последовательность такая:
-- компенсация (показатели восстанавливаеются до первоначального уровня)
-- суперкомпенсация (показате превышают начальный уровень)
-- гомеостаз (возврат показателей обратно на начальный уровень)
+* компенсация (показатели восстанавливаеются до первоначального уровня)
+* суперкомпенсация (показате превышают начальный уровень)
+* гомеостаз (возврат показателей обратно на начальный уровень)
 
 Чтобы постоянно прогрессировать нужно чтобы каждая следующая тренировка
 приходилась на фазу суперкомпенсации после предыдущей. Если провести раньше -
@@ -100,20 +100,20 @@
 
 Периоды восстановления у всех индивидуальны, но в качестве ориентира можно
 взять цифры:
-- компенсация креатинфосфата: 3-10 минут
-- компенсация молочной кислоты: 10-30 минут
-- компенсация гликогена: 2-3 суток
-- компенсация белков: 3-15 суток
+* компенсация креатинфосфата: 3-10 минут
+* компенсация молочной кислоты: 10-30 минут
+* компенсация гликогена: 2-3 суток
+* компенсация белков: 3-15 суток
 
 === Стратегии ===
 ==== Суперкомпенсация самой длинной функции ====
 Плюсы:
-- ориентирована на самую главную функции - рост мышечной масс
-- нет перетренерованности других систем
-- простота
+* ориентирована на самую главную функции - рост мышечной масс
+* нет перетренерованности других систем
+* простота
 
 Минусы:
-- дисбаланс развития остальных функций, что в конечном счете приведет к
+* дисбаланс развития остальных функций, что в конечном счете приведет к
 остановке развития мышечной массы.
 
 ==== Параллельная суперкомпенсация нескольких функций ====
@@ -143,85 +143,85 @@
 == Сочетания мышц ==
 Универсальных сочетаний нет, все индивидуально, однако есть принципы, которые
 хорошо себя зарекомендовали (возможно кто-то вам подойдет):
-- сочетание антогонистов
-- сочетание синергистов
+* сочетание антогонистов
+* сочетание синергистов
 
 == Рекомендованные упражнения ==
 * квадрицепс
-	- фронтальный присед
-	- жим ногами
-	- разгибания ног в тренажере
+** фронтальный присед
+** жим ногами
+** разгибания ног в тренажере
 * бицепс бедра
-	- мертвая тяга
-	- сгибания в тренажере лежа
-	- сгибания в тренажере стоя
+** мертвая тяга
+** сгибания в тренажере лежа
+** сгибания в тренажере стоя
 * спина
-	- подтягивания
-	- тяга штанги в наклоне
-	- тяга т-грифа
+** подтягивания
+** тяга штанги в наклоне
+** тяга т-грифа
 * грудные
-	- жим под углом 30-45 градусов, внутри амплитуды (штанга, гантели)
-	- отжимания на брусьях (скругленная спина, локти в стороны)
-	- разведения гантелей
-	- кроссовер
+** жим под углом 30-45 градусов, внутри амплитуды (штанга, гантели)
+** отжимания на брусьях (скругленная спина, локти в стороны)
+** разведения гантелей
+** кроссовер
 * плечи
-	- жим гантелей|штанги стоя|сидя (лучше стоя)
-	- тяга штанги|гантелей к подбородку
-	- махи гантелями стоя
-	- махи гантелями в наклоне
+** жим гантелей|штанги стоя|сидя (лучше стоя)
+** тяга штанги|гантелей к подбородку
+** махи гантелями стоя
+** махи гантелями в наклоне
 * бицепс
-	- подъем штанги на бицес (изогнутый гриф)
-	- подтягивания узким обратным хватом
-	- молотковые сгибания
-	- сгибания рук с гантелями сидя на наклонной скамье
+** подъем штанги на бицес (изогнутый гриф)
+** подтягивания узким обратным хватом
+** молотковые сгибания
+** сгибания рук с гантелями сидя на наклонной скамье
 * трицепс
-	- жим лежа узким хватом
-	- отжимания на брусьях (движение перпендикулярно полу, локти прижаты)
-	- отжимания спиной к скамье
-	- разгибание руки с гантелью
-	- разгибание рук на верхнем блоке с использованием каната
+** жим лежа узким хватом
+** отжимания на брусьях (движение перпендикулярно полу, локти прижаты)
+** отжимания спиной к скамье
+** разгибание руки с гантелью
+** разгибание рук на верхнем блоке с использованием каната
 
 = Ссылки, которые надо обработать =
-* [[http://zozhnik.ru/category/workouts/|зожник]]
-	- http://zozhnik.ru/luchshaya-programma-dlya-naturala/
-	- http://zozhnik.ru/luchshaya-programma-dlya-naturala-2/
-	- http://zozhnik.ru/5-zaskoruzlyx-mifov-o-pravilnoj-programme-trenirovok/
-	- http://zozhnik.ru/effektivnaya-trenirovka-dlya-rosta-sily/
-	- http://zozhnik.ru/strukov_programma_trenirovok/
-	- http://zozhnik.ru/zhim-odnoj-rukoj-pochemu-eto-uprazhnenie-luchshee-dlya-zdorovya-i-sily-plecha/
-	- http://zozhnik.ru/pavel-caculin-o-bazovyx-principax-razvitiya-sily/
-	- http://zozhnik.ru/vsyo-ob-odnopovtornom-maksimume-1pm/
-	- http://zozhnik.ru/5-principov-dlya-nabora-massy-12-nedelnaya-programma/
-	- http://zozhnik.ru/8-tipov-splita-kak-vybrat-split-trenirovku/
-	- http://zozhnik.ru/full-body-ili-split-chto-luchshe/
-	- http://zozhnik.ru/trenirovka-dlya-pokhudeniya-ot-lajjla-mak/
-	- http://zozhnik.ru/kak-sdelat-krugluyu-popu/
-	- http://zozhnik.ru/trenirovka_lyle_mcdonald_na_massu/
-	- http://zozhnik.ru/ciklirovanie-periodov-massonabora-i/
-	- http://zozhnik.ru/trenirovka-volnovaya-periodizaciya-na/
-	- http://zozhnik.ru/20-sposobov-trenirovatsya-umnee/
-	- http://zozhnik.ru/3-neehffektivnykh-i-vrednykh-uprazhneniya-d/
-	- http://zozhnik.ru/pochemu-ne-nuzhny-razgruzochnye-treniro/
-	- http://zozhnik.ru/programma-trenirovok-dlya-maksimaln/
-	- http://zozhnik.ru/5-prichin-pochemu-vy-vyglyadite-kak-budto-n/
-	- http://zozhnik.ru/5-prichin-pochemu-vasha-trenirovka-neehffe/
-	- http://zozhnik.ru/kakaya-minimalnaya-nagruzka-daet-ehffe/
-* [[https://cmtscience.ru/|CMT]]
-	- https://cmtscience.ru/article/rastjazhka-vred-i-polza-top-8-mifov-o-stretchinge-nauchnyj-podhod
-	- https://cmtscience.ru/article/periodizacija-nagruzok-istorija-i-teorija
-	- https://cmtscience.ru/article/dostatochno-li-tolko-prisedat-dlja-maksimalnogo-razvitija-myshc-nog
-	- https://cmtscience.ru/article/kak-samomu-sostavit-personalnuju-programmu-trenirovok
-	- https://cmtscience.ru/article/lajl-makdonald-o-zone-gipertrofii
-	- https://cmtscience.ru/article/obem-i-sila-myshc-pochemu-nekotorye-lyudi-silnee-a-nekotorye-obemnee
-	- https://cmtscience.ru/article/kak-effektivnee-nabirat-myshcy-i-zhech-zhir-na-deficite-kalorij
-	- https://cmtscience.ru/article/varianty-nabora-myshechnoj-massy-staraya-shkola-lean-gains-periodicheskoe-golodanie-i-dr
-	- https://cmtscience.ru/article/kolichestvo-povtoreniy-v-podhodah-dlya-rosta-myshechnoy-massy
-	- https://cmtscience.ru/article/princip-tls-tyazhelaya-legkaya-srednyaya-trenirovki
-	- https://cmtscience.ru/article/nizkoob-emnye-trenirovki-s-otyagoscheniyami
-	- https://cmtscience.ru/article/chastota-trenirovok-myshechnyh-grupp-i-krepatura
-	- https://cmtscience.ru/article/oshibochnye-dvizheniya-i-protivopokazaniya-dlya-plechevogo-sustava
-	- https://cmtscience.ru/article/skol-ko-raz-v-nedelyu-trenirovat-sya
-	- https://cmtscience.ru/article/kak-snizit-vliyanie-sidyachego-obraza-zhizni
-	- https://cmtscience.ru/article/nebol-shie-vesa-dlya-bol-shogo-uspeha-pochemu-bol-shie-vesa-ne-vsegda-horosho
-	- https://cmtscience.ru/article/i-snova-vopros-tak-skol-ko-zhe-nado-zanimat-sya
-	- https://cmtscience.ru/article/volnovaya-periodizaciya-bol-shiy-progress-v-izmenenii-kompozicii-telak
+* [http://zozhnik.ru/category/workouts/ зожник]
+** http://zozhnik.ru/luchshaya-programma-dlya-naturala/
+** http://zozhnik.ru/luchshaya-programma-dlya-naturala-2/
+** http://zozhnik.ru/5-zaskoruzlyx-mifov-o-pravilnoj-programme-trenirovok/
+** http://zozhnik.ru/effektivnaya-trenirovka-dlya-rosta-sily/
+** http://zozhnik.ru/strukov_programma_trenirovok/
+** http://zozhnik.ru/zhim-odnoj-rukoj-pochemu-eto-uprazhnenie-luchshee-dlya-zdorovya-i-sily-plecha/
+** http://zozhnik.ru/pavel-caculin-o-bazovyx-principax-razvitiya-sily/
+** http://zozhnik.ru/vsyo-ob-odnopovtornom-maksimume-1pm/
+** http://zozhnik.ru/5-principov-dlya-nabora-massy-12-nedelnaya-programma/
+** http://zozhnik.ru/8-tipov-splita-kak-vybrat-split-trenirovku/
+** http://zozhnik.ru/full-body-ili-split-chto-luchshe/
+** http://zozhnik.ru/trenirovka-dlya-pokhudeniya-ot-lajjla-mak/
+** http://zozhnik.ru/kak-sdelat-krugluyu-popu/
+** http://zozhnik.ru/trenirovka_lyle_mcdonald_na_massu/
+** http://zozhnik.ru/ciklirovanie-periodov-massonabora-i/
+** http://zozhnik.ru/trenirovka-volnovaya-periodizaciya-na/
+** http://zozhnik.ru/20-sposobov-trenirovatsya-umnee/
+** http://zozhnik.ru/3-neehffektivnykh-i-vrednykh-uprazhneniya-d/
+** http://zozhnik.ru/pochemu-ne-nuzhny-razgruzochnye-treniro/
+** http://zozhnik.ru/programma-trenirovok-dlya-maksimaln/
+** http://zozhnik.ru/5-prichin-pochemu-vy-vyglyadite-kak-budto-n/
+** http://zozhnik.ru/5-prichin-pochemu-vasha-trenirovka-neehffe/
+** http://zozhnik.ru/kakaya-minimalnaya-nagruzka-daet-ehffe/
+* [https://cmtscience.ru/ CMT]
+** https://cmtscience.ru/article/rastjazhka-vred-i-polza-top-8-mifov-o-stretchinge-nauchnyj-podhod
+** https://cmtscience.ru/article/periodizacija-nagruzok-istorija-i-teorija
+** https://cmtscience.ru/article/dostatochno-li-tolko-prisedat-dlja-maksimalnogo-razvitija-myshc-nog
+** https://cmtscience.ru/article/kak-samomu-sostavit-personalnuju-programmu-trenirovok
+** https://cmtscience.ru/article/lajl-makdonald-o-zone-gipertrofii
+** https://cmtscience.ru/article/obem-i-sila-myshc-pochemu-nekotorye-lyudi-silnee-a-nekotorye-obemnee
+** https://cmtscience.ru/article/kak-effektivnee-nabirat-myshcy-i-zhech-zhir-na-deficite-kalorij
+** https://cmtscience.ru/article/varianty-nabora-myshechnoj-massy-staraya-shkola-lean-gains-periodicheskoe-golodanie-i-dr
+** https://cmtscience.ru/article/kolichestvo-povtoreniy-v-podhodah-dlya-rosta-myshechnoy-massy
+** https://cmtscience.ru/article/princip-tls-tyazhelaya-legkaya-srednyaya-trenirovki
+** https://cmtscience.ru/article/nizkoob-emnye-trenirovki-s-otyagoscheniyami
+** https://cmtscience.ru/article/chastota-trenirovok-myshechnyh-grupp-i-krepatura
+** https://cmtscience.ru/article/oshibochnye-dvizheniya-i-protivopokazaniya-dlya-plechevogo-sustava
+** https://cmtscience.ru/article/skol-ko-raz-v-nedelyu-trenirovat-sya
+** https://cmtscience.ru/article/kak-snizit-vliyanie-sidyachego-obraza-zhizni
+** https://cmtscience.ru/article/nebol-shie-vesa-dlya-bol-shogo-uspeha-pochemu-bol-shie-vesa-ne-vsegda-horosho
+** https://cmtscience.ru/article/i-snova-vopros-tak-skol-ko-zhe-nado-zanimat-sya
+** https://cmtscience.ru/article/volnovaya-periodizaciya-bol-shiy-progress-v-izmenenii-kompozicii-telak
