@@ -62,12 +62,62 @@
 Исключить "золотую тройку" и вместо нее использовать фронтальный присед для
 ног и жим штанги|гантелей под углом для груди.
 
-Не более 2х упражнений на каждую мышечную группу. В каждом 2-3 подхода по 6-12
+Не более 2х упражнений на каждую мышечную группу. В каждом 2-3 подхода по 6-15
 повторений.
 
 Нужно придерживаться 2х основных принципов:
 * прогрессия нагрузки (постепенное увеличение тренировочного стресса)
 * периодизация (циклирование нагрузки)
+
+Если нет возможности тренироваться часто, вполне себе подойдет [http://zozhnik.ru/full-body-ili-split-chto-luchshe/ fullbody].
+
+Судя по [https://cmtscience.ru/article/nizkoob-emnye-trenirovki-s-otyagoscheniyami этому],
+можно проводить тренировки до отказа, если успеваете восстанавливаться,
+например, при занятиях 1-2 раза в неделю и это будет эффективно.
+
+Наибольший [http://zozhnik.ru/kakaya-minimalnaya-nagruzka-daet-ehffe/ эффект]
+на роста мышц оказывают тренировки с 60-70% ПМ. При этом похоже что количество
+повторений не играет роли, если подход выполняется до отказа, т.е. например
+приседания с 80кг штангой примерно равносильны приседаниям до отказа с 30кг
+(при этом рост мышц идет за счет медленных волокон ([https://cmtscience.ru/article/nebol-shie-vesa-dlya-bol-shogo-uspeha-pochemu-bol-shie-vesa-ne-vsegda-horosho источник])).
+
+[https://cmtscience.ru/article/kak-effektivnee-nabirat-myshcy-i-zhech-zhir-na-deficite-kalorij Исследования]
+показывают что в некоторых случаях (большое количество подкожного жира) можно
+набирать мышечную массу даже при дефиците калорий, главное - достаточное
+количество белка.
+
+=== Тренировки на силу ([http://zozhnik.ru/effektivnaya-trenirovka-dlya-rosta-sily/ источник]) ===
+Рабочий вес: новичкам (менее года опыта занятий) - 60-70% ПМ, более опытным -
+70-80%, редко 90-100%ПМ.
+
+Количество повторений: новичкам заканчивать упражнение за 1-2 повторения до
+отказа. Более опытным выполнять 2/3 повторов до отказа, редко - совсем до отказа.
+
+Изменение нагрузки: постоянно увеличивать нагрузку нельзя, нужен отдых и
+периоды уменьшение нагрузки.
+
+Отдых между подходами: исследования показываются что отдых в 3м, эффективнее
+отдыха в 1м.
+
+2-3 повтора с 90-95% ПМ эффективнее 1 повтора с 97-100% ПМ ([http://zozhnik.ru/vsyo-ob-odnopovtornom-maksimume-1pm/ источник]).
+
+С ростом силы не обязательно будет расти и объем ([https://cmtscience.ru/article/obem-i-sila-myshc-pochemu-nekotorye-lyudi-silnee-a-nekotorye-obemnee источник]).
+
+=== Тренировки для снижения веса ===
+Зал эффективнее бега ([http://zozhnik.ru/pochemu-lyudi-khudeyut-ne-ot-bega-a-ot-shtan/ источник]).
+При этом чем больше мышц, тем больше калорий можно потрелять и не бояться
+набрать лишний жир.
+
+Немного о прессе, выполнять скручивания на скамье [http://zozhnik.ru/3-neehffektivnykh-i-vrednykh-uprazhneniya-d/ вредно].
+[http://zozhnik.ru/kak-pravilno-kachat-press/ Здесь] говорится ещё про
+несколько вредных упражнений, а полезными считаются:
+* [https://youtu.be/_uuAi7AF6rA молитва]
+* скручивания без отрыва поясницы от пола
+* подъем ног в висе (без упора в пояснице)
+* боковой мостик (30-60с) с каждой стороны
+* скручивания на фитболе
+
+Интенсивность должна оставаться высокой, иначе потеряете мышцы ([http://zozhnik.ru/ciklirovanie-periodov-massonabora-i/ источник]).
 
 == Дневник ==
 В нем вы расписываете свои тренировки: самочувствие, отдых, веса и т.д. Он
@@ -81,6 +131,15 @@
 
 Суть примерно такая: тяжелая тренировка, средняя, легкая, тяжелая, средняя,
 легкая и т.д.
+
+Периодизация основана на ряде допущений ([https://cmtscience.ru/article/periodizacija-nagruzok-istorija-i-teorija источник]):
+# Цель тренировочной программы – максимальный результат на запланированном выступлении.
+# Тренировки приводят к специфическим адаптациям.
+# Параллельная работа над несколькими физическими качествами приводит к меньшим адаптациям (не максимальный результат).
+# Для поддержания определенного уровня адаптации требуется меньше тренировочного объема, чем для первичного развития.
+# Последовательность развития различных тренировочных адаптаций имеет критическое значение для конечного результата.
+
+Можно также обратить внимание на [https://cmtscience.ru/article/volnovaya-periodizaciya-bol-shiy-progress-v-izmenenii-kompozicii-tela гибкую периодизацию].
 
 == Суперкомпенсация ==
 Период после тренировки, в течение которого тренируемые показатели имеют
@@ -146,6 +205,9 @@
 * сочетание антогонистов
 * сочетание синергистов
 
+Хотя [http://zozhnik.ru/luchshaya-programma-dlya-naturala/ тут] советуют
+тренироваться по принципу "тяни-толкай".
+
 == Рекомендованные упражнения ==
 * квадрицепс
 ** фронтальный присед
@@ -155,6 +217,9 @@
 ** мертвая тяга
 ** сгибания в тренажере лежа
 ** сгибания в тренажере стоя
+* ягодицы
+** ягодичный мостик
+** шаги в стороны со жгутом на коленях
 * спина
 ** подтягивания
 ** тяга штанги в наклоне
@@ -181,47 +246,6 @@
 ** разгибание руки с гантелью
 ** разгибание рук на верхнем блоке с использованием каната
 
-= Ссылки, которые надо обработать =
-* [http://zozhnik.ru/category/workouts/ зожник]
-** http://zozhnik.ru/luchshaya-programma-dlya-naturala/
-** http://zozhnik.ru/luchshaya-programma-dlya-naturala-2/
-** http://zozhnik.ru/5-zaskoruzlyx-mifov-o-pravilnoj-programme-trenirovok/
-** http://zozhnik.ru/effektivnaya-trenirovka-dlya-rosta-sily/
-** http://zozhnik.ru/strukov_programma_trenirovok/
-** http://zozhnik.ru/zhim-odnoj-rukoj-pochemu-eto-uprazhnenie-luchshee-dlya-zdorovya-i-sily-plecha/
-** http://zozhnik.ru/pavel-caculin-o-bazovyx-principax-razvitiya-sily/
-** http://zozhnik.ru/vsyo-ob-odnopovtornom-maksimume-1pm/
-** http://zozhnik.ru/5-principov-dlya-nabora-massy-12-nedelnaya-programma/
-** http://zozhnik.ru/8-tipov-splita-kak-vybrat-split-trenirovku/
-** http://zozhnik.ru/full-body-ili-split-chto-luchshe/
-** http://zozhnik.ru/trenirovka-dlya-pokhudeniya-ot-lajjla-mak/
-** http://zozhnik.ru/kak-sdelat-krugluyu-popu/
-** http://zozhnik.ru/trenirovka_lyle_mcdonald_na_massu/
-** http://zozhnik.ru/ciklirovanie-periodov-massonabora-i/
-** http://zozhnik.ru/trenirovka-volnovaya-periodizaciya-na/
-** http://zozhnik.ru/20-sposobov-trenirovatsya-umnee/
-** http://zozhnik.ru/3-neehffektivnykh-i-vrednykh-uprazhneniya-d/
-** http://zozhnik.ru/pochemu-ne-nuzhny-razgruzochnye-treniro/
-** http://zozhnik.ru/programma-trenirovok-dlya-maksimaln/
-** http://zozhnik.ru/5-prichin-pochemu-vy-vyglyadite-kak-budto-n/
-** http://zozhnik.ru/5-prichin-pochemu-vasha-trenirovka-neehffe/
-** http://zozhnik.ru/kakaya-minimalnaya-nagruzka-daet-ehffe/
+Дополнительные ресурсы:
+* [http://zozhnik.ru/category/workouts/ Зожник]
 * [https://cmtscience.ru/ CMT]
-** https://cmtscience.ru/article/rastjazhka-vred-i-polza-top-8-mifov-o-stretchinge-nauchnyj-podhod
-** https://cmtscience.ru/article/periodizacija-nagruzok-istorija-i-teorija
-** https://cmtscience.ru/article/dostatochno-li-tolko-prisedat-dlja-maksimalnogo-razvitija-myshc-nog
-** https://cmtscience.ru/article/kak-samomu-sostavit-personalnuju-programmu-trenirovok
-** https://cmtscience.ru/article/lajl-makdonald-o-zone-gipertrofii
-** https://cmtscience.ru/article/obem-i-sila-myshc-pochemu-nekotorye-lyudi-silnee-a-nekotorye-obemnee
-** https://cmtscience.ru/article/kak-effektivnee-nabirat-myshcy-i-zhech-zhir-na-deficite-kalorij
-** https://cmtscience.ru/article/varianty-nabora-myshechnoj-massy-staraya-shkola-lean-gains-periodicheskoe-golodanie-i-dr
-** https://cmtscience.ru/article/kolichestvo-povtoreniy-v-podhodah-dlya-rosta-myshechnoy-massy
-** https://cmtscience.ru/article/princip-tls-tyazhelaya-legkaya-srednyaya-trenirovki
-** https://cmtscience.ru/article/nizkoob-emnye-trenirovki-s-otyagoscheniyami
-** https://cmtscience.ru/article/chastota-trenirovok-myshechnyh-grupp-i-krepatura
-** https://cmtscience.ru/article/oshibochnye-dvizheniya-i-protivopokazaniya-dlya-plechevogo-sustava
-** https://cmtscience.ru/article/skol-ko-raz-v-nedelyu-trenirovat-sya
-** https://cmtscience.ru/article/kak-snizit-vliyanie-sidyachego-obraza-zhizni
-** https://cmtscience.ru/article/nebol-shie-vesa-dlya-bol-shogo-uspeha-pochemu-bol-shie-vesa-ne-vsegda-horosho
-** https://cmtscience.ru/article/i-snova-vopros-tak-skol-ko-zhe-nado-zanimat-sya
-** https://cmtscience.ru/article/volnovaya-periodizaciya-bol-shiy-progress-v-izmenenii-kompozicii-telak
