@@ -4,5 +4,7 @@
   * [[training/bb.wiki|ББ]]
   * [[training/flex-diet.wiki|Гибкая диета]]
 * Разное
+  * [[misc/how-to-want.wiki|Мотивация и выгорание (рекомендации)]]
   * [[misc/how-to-learn.wiki|Как учиться]]
   * [[misc/poliphasic.wiki|Полифазный сон]]
+  * [[misc/relations.wiki|Отношения]]
