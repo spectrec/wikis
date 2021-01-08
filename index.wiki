@@ -1,5 +1,8 @@
 = Оглавление =
 
-* [[food.wiki|Питание]]
-* [[training.wiki|Тренировки]]
-* [[poliphasic.wiki|Полифазный сон]]
+* Тренировки
+  * [[training/bb.wiki|ББ]]
+  * [[training/flex-diet.wiki|Гибкая диета]]
+* Разное
+  * [[misc/how-to-learn.wiki|Как учиться]]
+  * [[misc/poliphasic.wiki|Полифазный сон]]
