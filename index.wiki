@@ -1,5 +1,5 @@
 = Оглавление =
 
-* [[food|Питание]]
-* [[training|Тренировки]]
-* [[poliphasic|Полифазный сон]]
+* [[food.wiki|Питание]]
+* [[training.wiki|Тренировки]]
+* [[poliphasic.wiki|Полифазный сон]]
