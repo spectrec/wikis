@@ -2,6 +2,7 @@
 
 * Финансы
   * [[finance/bonds.wiki|Облигации]]
+  * [[finance/stocks.wiki|Акции]]
 * Тренировки
   * [[training/flex-diet.wiki|Гибкая диета]]
 * Разное
