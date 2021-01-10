@@ -12,3 +12,4 @@
   * [[misc/how-to-learn.wiki|Как учиться]]
   * [[misc/poliphasic.wiki|Полифазный сон]]
   * [[misc/relations.wiki|Отношения]]
+  * [[misc/goals.wiki|Постановка целей]]
