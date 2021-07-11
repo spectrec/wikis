@@ -1,9 +1,9 @@
 = Оглавление =
 
 * Финансы
-  * [[finance/plan.wiki|Финансовый план]]
   * [[finance/bonds.wiki|Облигации]]
   * [[finance/stocks.wiki|Акции]]
+  * [[finance/etf.wiki|etf]]
   * [[finance/taxes.wiki|Налоги]]
 * Тренировки
   * [[training/flex-diet.wiki|Гибкая диета]]
